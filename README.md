@@ -9,16 +9,18 @@
  4) All the input files should be in sdf formats. 
 
  Please unzip the downloaded folder to access all the scripts and models.
- Command:
- 1: Descriptor:
+ 
+ #### Command:
+  
+  - 1: Descriptor:
 
   perl D.pl /home/file location to input file.
 
- 2: Fingerprint:
+ - 2: Fingerprint:
 
   perl F.pl /home/file location to input file.
 
- 3: Hybrid:
+ - 3: Hybrid:
 
   perl H.pl /home/file location to input file.
 
