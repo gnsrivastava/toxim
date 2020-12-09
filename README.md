@@ -1,7 +1,7 @@
 # ToxiM
 
 ### Dependencies:
- 1) Users are required to install rdkit, R (3.3 or above) and Java.
+ 1) Users are required to install RdKit, R (3.3 or above) and Java.
  2) Perl 5 version 16 is required for the program to run.
  3) R packages: randomForest, pls, MASS is required by the classification and regression models of the tool. 
  4) All the input files should be in sdf formats. 
