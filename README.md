@@ -1,6 +1,4 @@
-# Toxim
-
-### ToxiM Manual
+# ToxiM
 
 ### Dependencies:
  1) Users are required to install rdkit, R (3.3 or above) and Java.
